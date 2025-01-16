@@ -1,0 +1,27 @@
+Data Sourcing
+
+Data was sourced from Kaggle datasets, containing variables like start date, end date, category, start, stop, miles, and purpose.
+
+Data Visualization
+The Power BI dashboard visualizations include:
+
+1. Miles End date Distribution: line chart showing the distribution of miles and end date distribution.
+
+2. Top 5 uber trip on purpose Correlation: column chart displaying the relationship between uber trip and purpose.
+
+3. Uber trip by category : column chart showing different categories.
+
+4. Top 4 start stations Comparison: Pie chart comparing the top 4 stations.
+
+5. Purpose on Average uber trip: Bar chart contrasting average uber trip on purpose.
+
+Key Insights
+Miles by end date: Highest uber trip end date was 25th of March 2016 with 310 miles while 3rd of April was the least uber trip end date with 180 miles.
+Uber trip by category: It shows that majority of uber users prefer uber business with sum of 7.1k while uber personal has lowest with sum of 0.2k.
+Top 4 stations: The analysis shows that among the top 4 Stations Cary has the highest uber trip with 53.19% while Raleigh have lowest uber trip with 0.3%.
+Average of uber trip by purpose: It shows that majority of uber trip users use uber for customer purpose while least of uber trip users uses uber for erran purpose.
+
+Recommendations
+Uber personal should also same features that uber business has such as; exclusive rides for work travel, reservation options and easy expanding.
+Most frequent routes shoulld be analyze for potential inefficiencies.
+incentive should be given to drivers to prioritize short trip.
